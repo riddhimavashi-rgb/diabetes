@@ -1,0 +1,4 @@
+DIABETES PREDICTION PROJECT RESULTS
+Decision Tree Accuracy: 75.97%
+KNN Accuracy: 75.32%
+Better model by test accuracy: Decision Tree
